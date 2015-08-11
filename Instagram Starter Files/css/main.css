@@ -17,8 +17,13 @@ body {
 .phone{
   display: inline-block;  
 }
+.logo{  
+  margin-bottom: 20px;
+}
 .logo-main{
   display: inline-block;
+  vertical-align: top;
+  margin-left: 50px;
 }
 .blurb{
   background: url("../images/frame.png") no-repeat;
@@ -26,6 +31,7 @@ body {
   border: 1px solid red;
   width: 400px;
   vertical-align: top;
+  padding: 30px;
 }
 .blurb p{
   color: black;
