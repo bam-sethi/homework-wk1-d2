@@ -40,6 +40,22 @@ body {
 .blurb h3{
   color:#06365f;
 }
+button{
+  font-size: 15px;
+  color: white;
+  background-color: #1c5380;
+  border-color: #06365f;
+  padding: 2px 5px 2px 5px;
+  float: right;
+
+}
+footer ul li {
+  display: inline-block;
+  padding: 10px;
+  text-transform: uppercase;
+  color: #1c5380;
+
+}
 
 
 
