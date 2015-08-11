@@ -32,6 +32,7 @@ body {
   vertical-align: top;
   padding: 30px;
   font-size: 16px;
+  line-height: 150%;
 }
 .blurb p{
   color: black;
@@ -43,7 +44,7 @@ body {
 button{
   font-size: 17px;
   color: white;
-  background-color: transparent;
+  background: -webkit-linear-gradient(#6087A6, #33648D);
   border-color: #1c5380;
   border-width: 1px;
   padding: 8px 15px 8px 10px;
