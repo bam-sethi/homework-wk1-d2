@@ -46,11 +46,11 @@ button{
   background-color: transparent;
   border-color: #1c5380;
   border-width: 1px;
-  padding: 8px 15px 5px 10px;
+  border-style: groove;
+  padding: 8px 15px 8px 10px;
   float: right;
   text-align: right;
   border-radius: 5px 5px 5px 5px;
-
 }
 footer ul li {
   font-size: 10px;
