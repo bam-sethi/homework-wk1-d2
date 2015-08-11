@@ -13,17 +13,19 @@ body {
   max-width: 850px;
   margin: 0 auto;
   margin-top: 95px;
-
 }
 .phone{
   display: inline-block;  
+}
+.logo-main{
+  display: inline-block;
 }
 .blurb{
   background: url("../images/frame.png") no-repeat;
   display: inline-block;
   border: 1px solid red;
   width: 400px;
-
+  vertical-align: top;
 }
 .blurb p{
   color: black;
