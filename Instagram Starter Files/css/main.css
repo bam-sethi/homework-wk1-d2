@@ -28,10 +28,10 @@ body {
 .blurb{
   background: url("../images/frame.png") no-repeat;
   display: inline-block;
-  border: 1px solid red;
   width: 400px;
   vertical-align: top;
   padding: 30px;
+  font-size: 16px;
 }
 .blurb p{
   color: black;
@@ -45,18 +45,21 @@ button{
   color: white;
   background-color: #1c5380;
   border-color: #06365f;
-  padding: 2px 5px 2px 5px;
+  padding: 5px 10px 5px 10px;
   float: right;
 
 }
 footer ul li {
+  font-size: 10px;
   display: inline-block;
   padding: 10px;
   text-transform: uppercase;
   color: #1c5380;
-
+  font-weight: 800;
 }
-
+.copy{
+  color: black;
+}
 
 
 
